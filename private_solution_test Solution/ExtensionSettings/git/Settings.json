@@ -2,6 +2,6 @@
 	"gitRememberPassword":"true",
 	"serverType":"github",
 	"gitEmail":"ahmed.jaafri@4d.com",
-	"gitIsPrivateRepository":"true",
+	"gitIsPrivateRepository":"false",
 	"gitURL":"https://github.com/jeferyboy"
 }
